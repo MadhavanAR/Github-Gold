@@ -1,12 +1,12 @@
 # 🌟 Awesome Star Repos
 
-A curated collection of famous, high-quality, and influential GitHub repositories — organized by category.
+A curated collection of famous, high-quality and influential GitHub repositories organized by category.
 
 > Inspired by the [awesome](https://github.com/sindresorhus/awesome) community standard.
 
 ---
 
-## 🧠 AI & Machine Learning
+## AI & Machine Learning
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
@@ -15,7 +15,7 @@ A curated collection of famous, high-quality, and influential GitHub repositorie
 
 ---
 
-## ⚙️ Developer Tools
+## Developer Tools
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
@@ -24,7 +24,7 @@ A curated collection of famous, high-quality, and influential GitHub repositorie
 
 ---
 
-## 🚀 Automation & Agents
+## Automation & Agents
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
@@ -33,7 +33,7 @@ A curated collection of famous, high-quality, and influential GitHub repositorie
 
 ---
 
-## 🧩 Web Frameworks
+## Web Frameworks
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
@@ -42,7 +42,7 @@ A curated collection of famous, high-quality, and influential GitHub repositorie
 
 ---
 
-## 🧰 System Tools
+## System Tools
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
@@ -51,7 +51,7 @@ A curated collection of famous, high-quality, and influential GitHub repositorie
 
 ---
 
-## 📦 Databases & Backend
+## Databases & Backend
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
@@ -60,7 +60,7 @@ A curated collection of famous, high-quality, and influential GitHub repositorie
 
 ---
 
-## 🎨 UI / UX Libraries
+## UI / UX Libraries
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
@@ -69,7 +69,7 @@ A curated collection of famous, high-quality, and influential GitHub repositorie
 
 ---
 
-## 🧑‍💻 DevOps & Cloud
+## DevOps & Cloud
 | Repository | Description |
 |-------------|-------------|
 | [ ]() | |
